@@ -125,7 +125,7 @@
         sym_layer {
             label = "Sym";
             bindings = <
-&kp LS(GRAVE)  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT          &kp CARET  &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &bootloader
+&kp TILDE  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT          &kp CARET  &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &bootloader
 &trans     &trans   &trans    &trans    &trans     &trans      &trans     &trans    &trans       &trans       &trans     &kp PIPE
 &trans     &trans   &trans    &trans      &trans      &trans      &trans     &trans    &trans       &trans       &trans     &trans
 #ifdef TBLE_DUAL_2U
